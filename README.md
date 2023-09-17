@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jalaluddinmohammed
+- 👀 I’m interested in doing Automation.
+- 🌱 I’m currently learning DevOps processes and Tools
