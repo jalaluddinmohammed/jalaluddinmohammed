@@ -96,6 +96,10 @@ lsof
 # List files opened by user
 lsof -u user
 
+# Vim commands
+
+https://www.redhat.com/sysadmin/introduction-vi-editor
+
 # Display free and used memory ( -h for human readable, -m for MB, -g for GB.)
 free -h
 
