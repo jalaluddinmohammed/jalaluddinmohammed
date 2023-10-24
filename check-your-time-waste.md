@@ -1,5 +1,10 @@
 #!/bin/bash
-
+###########
+#Author: Mohammed Jalaluddin
+#Version: V1
+#Release Date: 24-Oct-2023
+#About: This will calculate your monthly and yearly wast time in days & months.
+############
 echo "Enter the time you waste on daily in hours:"
 read x
 
